@@ -3,14 +3,14 @@
 This repo documents the setup, customization, and testing of OS Ticket—an open-source ticketing system for IT support and customer service environments.
 
 ## Project Highlights
-- Local VM Installation using XAMPP
+- Local VM Installation using Azure
 - Ticket workflow customization
 - Admin panel configurations
 - Automation rules for SLAs & departments
 
 ## Tools & Skills
 - OS Ticket
-- Apache/XAMPP
+- Microsoft Azure
 - MySQL
 - IT Support Workflow Design
 
