@@ -21,7 +21,7 @@ As part of my IT journey, I explored how to deploy and manage OS Ticket, a power
 
 | Step | Description | Image |
 |------|-------------|-------|
-| 1 | Installed OS Ticket using XAMPP on local VM | ![Step 1](screenshots/install-screen.png) |
+| 1 | Installed OS Ticket using Microsoft Azure on local VM | ![Step 1](screenshots/install-screen.png) |
 | 2 | Configured departments, SLA plans, and help topics | ![Step 2](screenshots/config-screen.png) |
 | 3 | Created and resolved test tickets | ![Step 3](screenshots/ticket-test.png) |
 | 4 | Customized user and staff portals | ![Step 4](screenshots/custom-theme.png) |
